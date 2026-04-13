@@ -82,25 +82,4 @@ Me chamo João Pedro Miranda, tenho 18 anos e sou natural de São Carlos, SP. Co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />          
-<br/>
-<br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopmirandax&show_icons=true)" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopmirandax&show_icons=true)" 
-  />
-
-</p>

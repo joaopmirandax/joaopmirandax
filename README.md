@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Pedro Miranda, tenho 18 anos e sou natural de São Carlos, SP. Concluí o ensino médio no SESI, com diversos mini cursos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI. E estou sempre buscando melhorar.
+Me chamo João Pedro Miranda, tenho 18 anos e sou natural de São Carlos, SP. Concluí o ensino médio no SESI, com diversos mini cursos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe. E estou sempre buscando melhorar.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">

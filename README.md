@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=110&color=5E1FF7FF
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=5E1FF7&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Miranda)](https://git.io/typing-svg)
 
 **`Desenvolvedor FullStack`**

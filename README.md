@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=5E1FF7&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Miranda!)](https://git.io/typing-svg)
 
+**Desenvolvedor Front-End**
+
 Me chamo João Pedro Miranda, tenho 18 anos e sou natural de São Carlos, SP. Concluí o ensino médio no SESI, com diversos mini cursos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe. E estou sempre buscando melhorar.
 
 <h3 align="left">Entre em contato!</h3>

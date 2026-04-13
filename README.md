@@ -4,23 +4,11 @@
 
 Me chamo João Pedro Miranda, tenho 18 anos e sou natural de São Carlos, SP. Concluí o ensino médio no SESI, com diversos mini cursos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe. E estou sempre buscando melhorar.
 
-<p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/joaopmirandax?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/joaopmirandax?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<h3 align="left">Connect with me!</h3>
 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joao.miranda250408@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jo%C3%A3o-pedro-m-5857523b3/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/jp.mirandax7/)
 ---
 
 ### 🤖 Linguagens e Tecnologias

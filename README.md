@@ -5,7 +5,7 @@
 
 My name is João Pedro Miranda. I’m 18 years old and I’m from São Carlos, São Paulo. I completed high school at SESI, where I took several short courses. I’m currently studying Systems Analysis and Development at the Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe. And I’m always looking to improve.
 
-<h3 align="left">Contatos!</h3>
+<h3 align="left">Contacts!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joao.miranda250408@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jo%C3%A3o-pedro-m-5857523b3/)

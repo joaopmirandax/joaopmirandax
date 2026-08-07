@@ -12,7 +12,7 @@ My name is João Pedro Miranda. I’m 18 years old and I’m from São Carlos, S
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/jp.mirandax7/)
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 

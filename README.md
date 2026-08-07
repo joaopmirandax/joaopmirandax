@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=5E1FF7&width=435&lines=Ol%C3%A1%2C+my+name's+%C3%A9+Miranda!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=5E1FF7&width=435&lines=Hello+my+name's+Miranda!)](https://git.io/typing-svg)
 
-**`Desenvolvedor Front-End`**
+**`Front-end Developer`**
 
 
 My name is João Pedro Miranda. I’m 18 years old and I’m from São Carlos, São Paulo. I completed high school at SESI, where I took several short courses. I’m currently studying Systems Analysis and Development at the Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe. And I’m always looking to improve.

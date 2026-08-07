@@ -3,7 +3,7 @@
 **`Front-end Developer`**
 
 
-My name is João Pedro Miranda. I’m 18 years old and I’m from São Carlos, São Paulo. I completed high school at SESI, where I took several short courses. I’m currently studying Systems Analysis and Development at the Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe. And I’m always looking to improve.
+My name is João Pedro Miranda. I’m 18 years old and I’m from São Carlos, São Paulo, Brasil. I completed high school at SESI, where I took several short courses. I’m currently studying Systems Analysis and Development at the Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe. And I’m always looking to improve.
 
 <h3 align="left">Contacts!</h3>
 
